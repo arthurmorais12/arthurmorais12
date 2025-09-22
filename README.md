@@ -17,19 +17,19 @@
 
 ### 🔹 [SRT Translator AI](https://github.com/arthurmorais12/srt-translator-ai)  
 Tradutor de legendas `.srt` via linha de comando que mantém o formato original, com suporte a múltiplos provedores de IA.  
-**Stack:** Python, CLI, OpenAI, Gemini, Groq  
+**Stack:** Python, Typer, Langchain
 
 ---
 
 ### 🔹 [E-commerce Chat](https://github.com/arthurmorais12/ecommerce-chat)  
 Chatbot conversacional para e-commerce de eletrônicos, com busca semântica de produtos e frontend moderno.  
-**Stack:** FastAPI, React, TailwindCSS, LangChain, ChromaDB  
+**Stack:** FastAPI, React, LangChain, ChromaDB  
 
 ---
 
 ### 🔹 [Edu Docs Assistant](https://github.com/arthurmorais12/edu-docs-assistant)  
 Assistente que centraliza documentações técnicas e responde dúvidas com RAG, incluindo FAQ automática e quizzes.  
-**Stack:** FastAPI, Streamlit, Embeddings, NLP  
+**Stack:** FastAPI, Streamlit, Langchain, ChromaDB
 
 ---
 
